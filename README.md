@@ -6,12 +6,7 @@ health, CRM ownership and contract data, support tickets, engineering issues,
 usage trends, and an integrated Claude chat sidebar with tool-use access to
 the full account context.
 
-> **Note on this repo.** This is an anonymized portfolio version of an
-> internal CS aggregator pattern I built for real customer-success workflows.
-> Tidemark, the customers, and all fixture data are fictional; the Next.js app
-> structure, LLM tool-use loop, adapter boundaries, and ECS/Fargate + tailnet
-> deployment shape reflect the production-grade system design. See
-> [ARCHITECTURE.md](./ARCHITECTURE.md) for the deployment-vs-demo split.
+> **Note on this repo.** Note on this repo. This is a portfolio rebuild of a CS aggregator I built at work. The architecture, LLM tool-use loop, and deployment shape are the same; the company name, customer data, and domain specifics are fictional. See ARCHITECTURE.md for the deployment-vs-demo split.
 
 ![Accounts list — sort by any column, CSM filter persists per-user](./accounts-list.png)
 
