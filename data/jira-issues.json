@@ -1,0 +1,59 @@
+{
+  "Northwind Logistics": [
+    { "id": "iss_001", "identifier": "ENG-1421", "title": "SSO SAML callback fails when RelayState contains a hash fragment", "state": "In Progress", "assignee": "Priya Raman", "created_at": "2026-05-19T14:22:00Z", "updated_at": "2026-05-22T09:14:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1421" },
+    { "id": "iss_002", "identifier": "ENG-1389", "title": "Workflow scheduler skips 2am UTC runs ~1% of nights on AWS clock-skew window", "state": "In Review", "assignee": "Marcus Lee", "created_at": "2026-05-09T11:02:00Z", "updated_at": "2026-05-18T16:30:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1389" },
+    { "id": "iss_003", "identifier": "ENG-1342", "title": "S3 bulk export memory regression on runs >50k rows", "state": "Done", "assignee": "Dana Okafor", "created_at": "2026-04-03T09:48:00Z", "updated_at": "2026-04-15T10:20:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1342" },
+    { "id": "iss_004", "identifier": "ENG-1308", "title": "Slack notification template references wrong user on workflow failure", "state": "Done", "assignee": "Marcus Lee", "created_at": "2026-03-22T13:11:00Z", "updated_at": "2026-04-02T14:48:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1308" }
+  ],
+  "Helix Biosciences": [
+    { "id": "iss_010", "identifier": "ENG-1602", "title": "Export CSV truncates rows >100k on Snowflake-backed reports", "state": "Triage", "assignee": null, "created_at": "2026-05-20T09:15:00Z", "updated_at": "2026-05-22T08:00:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1602" },
+    { "id": "iss_011", "identifier": "ENG-1571", "title": "Workspace permissions reset after invite resend", "state": "In Progress", "assignee": "Priya Raman", "created_at": "2026-05-13T11:00:00Z", "updated_at": "2026-05-18T15:30:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1571" },
+    { "id": "iss_012", "identifier": "ENG-1502", "title": "Audit log doesn't capture API key rotation events", "state": "Done", "assignee": "Dana Okafor", "created_at": "2026-04-29T16:08:00Z", "updated_at": "2026-05-08T11:14:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1502" }
+  ],
+  "Atlas Freight": [
+    { "id": "iss_020", "identifier": "ENG-1518", "title": "Webhook deliveries delayed >5min during ingest backfill", "state": "In Review", "assignee": "Marcus Lee", "created_at": "2026-05-20T11:40:00Z", "updated_at": "2026-05-22T14:00:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1518" },
+    { "id": "iss_021", "identifier": "ENG-1497", "title": "EDI 214 parser drops milestones with non-ASCII characters", "state": "In Progress", "assignee": "Priya Raman", "created_at": "2026-05-15T10:24:00Z", "updated_at": "2026-05-19T08:48:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1497" },
+    { "id": "iss_022", "identifier": "ENG-1453", "title": "Daily summary email duplicate-fires when cron run overlaps backfill", "state": "Done", "assignee": "Dana Okafor", "created_at": "2026-05-04T07:18:00Z", "updated_at": "2026-05-09T15:32:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1453" },
+    { "id": "iss_023", "identifier": "ENG-1421b", "title": "API rate limit incorrectly triggered by EOM batch headers", "state": "Done", "assignee": "Dana Okafor", "created_at": "2026-04-13T22:14:00Z", "updated_at": "2026-04-26T09:08:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1421b" }
+  ],
+  "Aria Therapeutics": [
+    { "id": "iss_030", "identifier": "ENG-1655", "title": "Dashboard time-zone offset wrong for users east of UTC", "state": "Backlog", "assignee": "Jordan Park", "created_at": "2026-04-18T10:30:00Z", "updated_at": "2026-04-19T08:00:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1655" }
+  ],
+  "Brightline Capital": [
+    { "id": "iss_040", "identifier": "ENG-1377", "title": "API rate-limit headers missing on /v1/events endpoint", "state": "Done", "assignee": "Dana Okafor", "created_at": "2026-05-12T16:08:00Z", "updated_at": "2026-05-21T09:30:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1377" },
+    { "id": "iss_041", "identifier": "ENG-1326", "title": "Usage report API returns stale data for trainee-tier orgs", "state": "In Progress", "assignee": "Marcus Lee", "created_at": "2026-04-26T09:21:00Z", "updated_at": "2026-05-15T11:48:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1326" }
+  ],
+  "Cedar & Co": [
+    { "id": "iss_050", "identifier": "ENG-1102", "title": "Slack notification template typo on workflow-failed alert", "state": "Done", "assignee": "Marcus Lee", "created_at": "2026-02-14T08:45:00Z", "updated_at": "2026-02-22T12:00:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1102" }
+  ],
+  "Drift Mobility": [
+    { "id": "iss_060", "identifier": "ENG-1544", "title": "Bulk import fails silently when CSV has BOM header", "state": "In Progress", "assignee": "Priya Raman", "created_at": "2026-05-08T13:21:00Z", "updated_at": "2026-05-19T16:24:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1544" }
+  ],
+  "Embercast": [
+    { "id": "iss_070", "identifier": "ENG-1488", "title": "Onboarding wizard freezes on step 4 in Safari 17.x", "state": "In Progress", "assignee": "Dana Okafor", "created_at": "2026-05-02T11:14:00Z", "updated_at": "2026-05-19T08:00:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1488" },
+    { "id": "iss_071", "identifier": "ENG-1431", "title": "Workspace activity report counts archived workspaces", "state": "Backlog", "assignee": null, "created_at": "2026-04-22T15:30:00Z", "updated_at": "2026-04-23T10:14:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1431" }
+  ],
+  "Foxgrove": [
+    { "id": "iss_080", "identifier": "ENG-1255", "title": "Filter dropdown overflows on viewports <1280px", "state": "Done", "assignee": "Jordan Park", "created_at": "2026-03-22T15:48:00Z", "updated_at": "2026-04-03T12:00:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1255" }
+  ],
+  "Glasshaus": [
+    { "id": "iss_090", "identifier": "ENG-1577", "title": "Workflow editor undo state corrupts after copy-paste of nested branch", "state": "In Progress", "assignee": "Priya Raman", "created_at": "2026-05-15T09:33:00Z", "updated_at": "2026-05-22T11:48:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1577" },
+    { "id": "iss_091", "identifier": "ENG-1492", "title": "Stalled-workflow detector flagging healthy long-running runs", "state": "Backlog", "assignee": "Marcus Lee", "created_at": "2026-05-13T16:50:00Z", "updated_at": "2026-05-15T08:00:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1492" }
+  ],
+  "Hilltop Imaging": [
+    { "id": "iss_100", "identifier": "ENG-1561", "title": "Audit log search returns no results when query contains a colon", "state": "In Progress", "assignee": "Marcus Lee", "created_at": "2026-05-11T10:02:00Z", "updated_at": "2026-05-18T15:00:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1561" }
+  ],
+  "Inflect": [
+    { "id": "iss_110", "identifier": "ENG-1469", "title": "GraphQL federation: schema reload causes 30s gateway pause", "state": "Done", "assignee": "Dana Okafor", "created_at": "2026-04-29T17:18:00Z", "updated_at": "2026-05-13T09:14:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1469" },
+    { "id": "iss_111", "identifier": "ENG-1404", "title": "Workspace-split helper docs missing for multi-env setups", "state": "Done", "assignee": "Priya Raman", "created_at": "2026-04-12T11:30:00Z", "updated_at": "2026-04-25T16:00:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1404" }
+  ],
+  "Junction Labs": [
+    { "id": "iss_120", "identifier": "ENG-1158", "title": "API key revocation doesn't propagate to running webhooks for ~60s", "state": "Done", "assignee": "Priya Raman", "created_at": "2026-01-30T13:55:00Z", "updated_at": "2026-02-04T09:00:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1158" }
+  ],
+  "Kestrel Defense": [
+    { "id": "iss_130", "identifier": "ENG-1361", "title": "On-prem upgrade script doesn't migrate workflow-history table on Postgres 15", "state": "Done", "assignee": "Dana Okafor", "created_at": "2026-04-04T08:11:00Z", "updated_at": "2026-04-18T13:30:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1361" }
+  ],
+  "Lumen Cargo": [
+    { "id": "iss_140", "identifier": "ENG-1497b", "title": "EDI 214 parser drops shipment milestones with non-ASCII characters (Lumen-specific)", "state": "In Review", "assignee": "Marcus Lee", "created_at": "2026-04-26T12:39:00Z", "updated_at": "2026-05-19T14:00:00Z", "url": "https://tidemark.atlassian.net/browse/ENG-1497b" }
+  ]
+}

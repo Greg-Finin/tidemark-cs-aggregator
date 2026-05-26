@@ -1,0 +1,72 @@
+{
+  "Northwind Logistics": [
+    { "id": "tkt_8a1f9c", "number": 4128, "title": "Users hitting redirect loop after Okta login", "state": "in_progress", "created_at": "2026-05-19T14:22:00Z", "updated_at": "2026-05-20T09:14:00Z", "requester_email": "ops@northwind-logistics.example", "link": null },
+    { "id": "tkt_7f2c11", "number": 4091, "title": "Workflow scheduler skipping 2am UTC runs intermittently", "state": "open", "created_at": "2026-05-11T18:02:00Z", "updated_at": "2026-05-12T11:50:00Z", "requester_email": "engops@northwind-logistics.example", "link": null },
+    { "id": "tkt_6e4a02", "number": 3987, "title": "Slack notification mentions wrong user on workflow failure", "state": "resolved", "created_at": "2026-04-22T13:11:00Z", "updated_at": "2026-04-25T16:09:00Z", "requester_email": "ops@northwind-logistics.example", "link": null },
+    { "id": "tkt_5d3b91", "number": 3862, "title": "Bulk export to S3 timing out for runs >50k rows", "state": "resolved", "created_at": "2026-04-03T09:48:00Z", "updated_at": "2026-04-09T17:25:00Z", "requester_email": "analytics@northwind-logistics.example", "link": null }
+  ],
+  "Helix Biosciences": [
+    { "id": "tkt_91d3e2", "number": 4144, "title": "CSV export from monthly report only contains ~100k rows", "state": "open", "created_at": "2026-05-20T09:15:00Z", "updated_at": "2026-05-20T15:30:00Z", "requester_email": "finance@helix-bio.example", "link": null },
+    { "id": "tkt_82c1d4", "number": 4098, "title": "Workspace permissions reset after invite resend", "state": "in_progress", "created_at": "2026-05-13T11:00:00Z", "updated_at": "2026-05-15T08:42:00Z", "requester_email": "it@helix-bio.example", "link": null },
+    { "id": "tkt_73b0c5", "number": 4022, "title": "Audit log not showing API key rotation events", "state": "resolved", "created_at": "2026-04-29T16:08:00Z", "updated_at": "2026-05-02T10:14:00Z", "requester_email": "security@helix-bio.example", "link": null },
+    { "id": "tkt_64a0f3", "number": 3951, "title": "Question: can we self-serve user offboarding?", "state": "resolved", "created_at": "2026-04-16T14:55:00Z", "updated_at": "2026-04-17T09:30:00Z", "requester_email": "it@helix-bio.example", "link": null },
+    { "id": "tkt_5598e2", "number": 3884, "title": "Webhook signing key validation docs are out of date", "state": "resolved", "created_at": "2026-04-04T08:21:00Z", "updated_at": "2026-04-05T11:40:00Z", "requester_email": "engineering@helix-bio.example", "link": null }
+  ],
+  "Atlas Freight": [
+    { "id": "tkt_b22f04", "number": 4146, "title": "Webhooks arriving 5-10 minutes late", "state": "in_progress", "created_at": "2026-05-20T11:40:00Z", "updated_at": "2026-05-21T08:11:00Z", "requester_email": "platform@atlasfreight.example", "link": null },
+    { "id": "tkt_a11d93", "number": 4117, "title": "EDI 214 milestones missing for shipments with non-ASCII chars", "state": "in_progress", "created_at": "2026-05-15T10:24:00Z", "updated_at": "2026-05-17T14:00:00Z", "requester_email": "ops@atlasfreight.example", "link": null },
+    { "id": "tkt_9008b2", "number": 4072, "title": "Daily summary email arriving twice", "state": "resolved", "created_at": "2026-05-04T07:18:00Z", "updated_at": "2026-05-06T15:32:00Z", "requester_email": "ops@atlasfreight.example", "link": null },
+    { "id": "tkt_8eef91", "number": 4019, "title": "Add new role for read-only finance access", "state": "open", "created_at": "2026-04-28T13:09:00Z", "updated_at": "2026-04-28T13:09:00Z", "requester_email": "finance@atlasfreight.example", "link": null },
+    { "id": "tkt_7dde80", "number": 3963, "title": "API rate limit hit during EOM reconciliation batch", "state": "resolved", "created_at": "2026-04-13T22:14:00Z", "updated_at": "2026-04-15T09:08:00Z", "requester_email": "engineering@atlasfreight.example", "link": null }
+  ],
+  "Aria Therapeutics": [
+    { "id": "tkt_a01c12", "number": 4101, "title": "Help connecting Salesforce sandbox alongside production", "state": "resolved", "created_at": "2026-05-14T15:33:00Z", "updated_at": "2026-05-15T11:00:00Z", "requester_email": "rev-ops@aria-tx.example", "link": null },
+    { "id": "tkt_9f2d23", "number": 4055, "title": "Confirmation that SSO is required for new invites", "state": "resolved", "created_at": "2026-05-06T10:08:00Z", "updated_at": "2026-05-06T17:30:00Z", "requester_email": "it@aria-tx.example", "link": null }
+  ],
+  "Brightline Capital": [
+    { "id": "tkt_b34f55", "number": 4129, "title": "Most users haven't signed in since March — can we get a usage report?", "state": "open", "created_at": "2026-05-18T16:42:00Z", "updated_at": "2026-05-19T09:00:00Z", "requester_email": "vp-ops@brightline.example", "link": null },
+    { "id": "tkt_a23e44", "number": 4084, "title": "Renewal questions: which features are we paying for vs using?", "state": "open", "created_at": "2026-05-10T11:18:00Z", "updated_at": "2026-05-12T14:00:00Z", "requester_email": "procurement@brightline.example", "link": null },
+    { "id": "tkt_912d33", "number": 4012, "title": "Workflow execution count seems lower than dashboard says", "state": "in_progress", "created_at": "2026-04-26T09:21:00Z", "updated_at": "2026-05-01T16:14:00Z", "requester_email": "finance@brightline.example", "link": null },
+    { "id": "tkt_801c22", "number": 3945, "title": "Trainee accounts still active after Q1 — please deactivate", "state": "resolved", "created_at": "2026-04-09T13:30:00Z", "updated_at": "2026-04-11T10:00:00Z", "requester_email": "vp-ops@brightline.example", "link": null }
+  ],
+  "Cedar & Co": [
+    { "id": "tkt_c12d34", "number": 4080, "title": "How do I bulk-update workflow tags?", "state": "resolved", "created_at": "2026-05-09T09:14:00Z", "updated_at": "2026-05-09T15:00:00Z", "requester_email": "ops@cedarandco.example", "link": null }
+  ],
+  "Drift Mobility": [
+    { "id": "tkt_d24e45", "number": 4133, "title": "Onboarding 12 new users next week — can we batch the invites?", "state": "open", "created_at": "2026-05-19T10:25:00Z", "updated_at": "2026-05-19T16:48:00Z", "requester_email": "people@driftmobility.example", "link": null },
+    { "id": "tkt_c13d34", "number": 4108, "title": "Question: how do we run a workflow on multiple data sources in parallel?", "state": "resolved", "created_at": "2026-05-15T13:50:00Z", "updated_at": "2026-05-15T17:14:00Z", "requester_email": "platform@driftmobility.example", "link": null },
+    { "id": "tkt_b02c23", "number": 4061, "title": "Set up SCIM provisioning with Okta", "state": "resolved", "created_at": "2026-05-07T11:02:00Z", "updated_at": "2026-05-09T09:30:00Z", "requester_email": "it@driftmobility.example", "link": null }
+  ],
+  "Embercast": [
+    { "id": "tkt_e36f56", "number": 4120, "title": "Onboarding wizard freezes on step 4 in Safari 17", "state": "in_progress", "created_at": "2026-05-02T11:14:00Z", "updated_at": "2026-05-12T09:00:00Z", "requester_email": "ops@embercast.example", "link": null },
+    { "id": "tkt_d25e45", "number": 4023, "title": "Most workspaces sitting at 0 weekly active users", "state": "open", "created_at": "2026-04-29T14:18:00Z", "updated_at": "2026-05-06T10:30:00Z", "requester_email": "vp-ops@embercast.example", "link": null }
+  ],
+  "Foxgrove": [
+    { "id": "tkt_f47g67", "number": 4106, "title": "Question: best way to chain two workflows with a delay", "state": "resolved", "created_at": "2026-05-12T08:42:00Z", "updated_at": "2026-05-12T14:00:00Z", "requester_email": "ops@foxgrove.example", "link": null }
+  ],
+  "Glasshaus": [
+    { "id": "tkt_g58h78", "number": 4131, "title": "Workflow editor undo breaks after copy-paste of nested branch", "state": "in_progress", "created_at": "2026-05-15T09:33:00Z", "updated_at": "2026-05-18T11:24:00Z", "requester_email": "platform@glasshaus.example", "link": null },
+    { "id": "tkt_f47g67b", "number": 4099, "title": "Some workflows showing 'stalled' but actually running", "state": "open", "created_at": "2026-05-13T16:50:00Z", "updated_at": "2026-05-15T08:00:00Z", "requester_email": "platform@glasshaus.example", "link": null },
+    { "id": "tkt_e36f56b", "number": 4045, "title": "Question: can we get a Q2 usage export for our finance review?", "state": "resolved", "created_at": "2026-05-02T13:22:00Z", "updated_at": "2026-05-03T11:00:00Z", "requester_email": "finance@glasshaus.example", "link": null }
+  ],
+  "Hilltop Imaging": [
+    { "id": "tkt_h69i89", "number": 4124, "title": "Audit log search returns no results when query has a colon", "state": "in_progress", "created_at": "2026-05-11T10:02:00Z", "updated_at": "2026-05-14T15:00:00Z", "requester_email": "security@hilltop-imaging.example", "link": null },
+    { "id": "tkt_g58h78b", "number": 4083, "title": "Onboarding 6 more radiologists — best tier for image-heavy workflows?", "state": "resolved", "created_at": "2026-05-04T11:30:00Z", "updated_at": "2026-05-05T16:48:00Z", "requester_email": "ops@hilltop-imaging.example", "link": null }
+  ],
+  "Inflect": [
+    { "id": "tkt_i70j90", "number": 4135, "title": "GraphQL federation gateway pause during schema reload", "state": "resolved", "created_at": "2026-04-29T17:18:00Z", "updated_at": "2026-05-08T09:14:00Z", "requester_email": "platform@inflect.example", "link": null },
+    { "id": "tkt_h69i89b", "number": 4118, "title": "Best practice for splitting workspaces by environment", "state": "resolved", "created_at": "2026-05-16T08:50:00Z", "updated_at": "2026-05-16T13:00:00Z", "requester_email": "platform@inflect.example", "link": null },
+    { "id": "tkt_g58h78c", "number": 4071, "title": "Need to add 50 more seats before end of quarter", "state": "resolved", "created_at": "2026-05-08T14:12:00Z", "updated_at": "2026-05-09T11:30:00Z", "requester_email": "procurement@inflect.example", "link": null }
+  ],
+  "Junction Labs": [
+    { "id": "tkt_j81k01", "number": 4112, "title": "Renewal discussion — most of our team has moved off the platform", "state": "open", "created_at": "2026-05-17T15:48:00Z", "updated_at": "2026-05-18T10:00:00Z", "requester_email": "founder@junctionlabs.example", "link": null }
+  ],
+  "Kestrel Defense": [
+    { "id": "tkt_k92l12", "number": 4127, "title": "On-prem upgrade script doesn't migrate workflow-history table on PG15", "state": "resolved", "created_at": "2026-04-04T08:11:00Z", "updated_at": "2026-04-22T13:30:00Z", "requester_email": "platform@kestreldefense.example", "link": null },
+    { "id": "tkt_j81k01b", "number": 4095, "title": "Air-gapped license activation question", "state": "resolved", "created_at": "2026-05-12T11:30:00Z", "updated_at": "2026-05-13T09:00:00Z", "requester_email": "platform@kestreldefense.example", "link": null }
+  ],
+  "Lumen Cargo": [
+    { "id": "tkt_l03m23", "number": 4116, "title": "EDI 214 parser dropping shipment milestones with non-ASCII characters", "state": "in_progress", "created_at": "2026-04-26T12:39:00Z", "updated_at": "2026-05-12T14:00:00Z", "requester_email": "platform@lumencargo.example", "link": null },
+    { "id": "tkt_k92l12b", "number": 4060, "title": "Most workspaces inactive — want to consolidate before renewal", "state": "open", "created_at": "2026-05-06T16:20:00Z", "updated_at": "2026-05-08T11:00:00Z", "requester_email": "ops@lumencargo.example", "link": null }
+  ]
+}

@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env
+.env.local
+*.tsbuildinfo
+.DS_Store
+out/
+dist/
+build/
+.vercel/
+infra/cdk.out/
+infra/node_modules/
